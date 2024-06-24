@@ -1,0 +1,5 @@
+_region_.*
+.auctex-auto
+*.aux
+*.log
+*.synctex.gz
